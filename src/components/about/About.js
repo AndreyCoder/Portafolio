@@ -1,6 +1,6 @@
 import React from "react";
 import "./About.css";
-import Andrey from '../../media/Andrey-3.jpg'
+import fotoPerfil from '../../media/foto-perfil.jpg'
 
 const About = () => {
   return (
@@ -16,7 +16,7 @@ const About = () => {
       </div>
       <div className="about-img">
         <img
-          src={Andrey}
+          src={fotoPerfil}
           alt="about"
         />
       </div>
