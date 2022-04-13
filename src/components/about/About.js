@@ -1,6 +1,6 @@
 import React from "react";
 import "./About.css";
-import fotoPerfil from '../../media/foto-perfil.jpg'
+import fotoPerfil from '../../media/foto-perfil.png'
 
 const About = () => {
   return (
