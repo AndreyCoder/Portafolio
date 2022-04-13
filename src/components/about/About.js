@@ -1,5 +1,6 @@
 import React from "react";
 import "./About.css";
+import Andrey from '../../media/Andrey-3.jpg'
 
 const About = () => {
   return (
@@ -15,7 +16,7 @@ const About = () => {
       </div>
       <div className="about-img">
         <img
-          src="../../media/Andrey-3.jpg"
+          src={Andrey}
           alt="about"
         />
       </div>
