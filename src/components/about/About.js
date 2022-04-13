@@ -8,10 +8,8 @@ const About = () => {
       <div className="about-desc">
         <h3>Let me tell you something about me</h3>
         <p>
-          Lorem ipsum dolor sit amet, consectetur adipisicing elit. Omnis
-          provident inventore quod voluptates sequi. Quis, necessitatibus omnis
-          iusto perferendis dolores voluptate et dolorum inventore autem nemo,
-          quos eveniet magni nesciunt.
+          I really like programming and even though I am still studying for full stak developer I already have a few projects that I have done by myself using react.
+          At the moment the languages I know are JavaScript, css, html and react.
         </p>
       </div>
       <div className="about-img">
