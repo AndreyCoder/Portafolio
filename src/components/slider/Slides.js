@@ -3,6 +3,7 @@ import "./Slider.css";
 
 const slidesInfo = [
   {
+
     src:
       "https://cdn.pixabay.com/photo/2016/12/19/08/39/mobile-phone-1917737_960_720.jpg",
     alt: "Project 1",
