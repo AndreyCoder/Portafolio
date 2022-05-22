@@ -1,6 +1,6 @@
 import React from "react";
 import "./About.css";
-import fotoPerfil from '../../media/foto-perfil.png'
+// import fotoPerfil from '../../media/foto-perfil.png'
 
 const About = () => {
   return (
@@ -13,12 +13,12 @@ const About = () => {
           lenguajes que conozco son HTML, CSS, JavaScript y ReactJS.
         </p>
       </div>
-      <div className="about-img">
+      {/* <div className="about-img">
         <img
           src={fotoPerfil}
-          alt="about"
+          alt="acerca de"
         />
-      </div>
+      </div> */}
     </div>
   );
 };
