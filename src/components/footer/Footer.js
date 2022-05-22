@@ -9,11 +9,11 @@ const Footer = () => {
         <p>Heredia | Costa Rica</p>
       </div>
       <div className="footer-contact">
-        <h3>Contact me</h3>
-        <p>And let's get down to work</p>
+        <h3>Contacto</h3>
+        <p>Pongámonos manos a la obra</p>
       </div>
       <div className="footer-sns">
-        <div className="design-by">Design By Andrey Murillo</div>
+        <div className="design-by">Desiñado Por Andrey Murillo</div>
         <div className="sns-links">
           <a href="https://www.linkedin.com/in/andrey-murillo-843312194/"
             target="_blank" rel="noreferrer">
