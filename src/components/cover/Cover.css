@@ -17,24 +17,24 @@
   z-index: -1;
 }
 
-.cover-container > h1 {
+.cover-container>h1 {
   color: white;
   font-size: 100px;
 }
 
-.cover-container > p {
+.cover-container>p {
   margin-top: 8px;
   color: white;
   font-size: 32px;
 }
 
 @media screen and (max-width: 960px) {
-  .cover-container > h1 {
-    font-size: 70px;
+  .cover-container>h1 {
+    font-size: 60px;
     text-align: center;
   }
 
-  .cover-container > p {
+  .cover-container>p {
     text-align: center;
     font-size: 22px;
     width: 85%;
